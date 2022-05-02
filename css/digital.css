@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+.design{
+    top: 50%;
+    left: 50%;
+    font-size: 7em;
+    color: dodgerblue;
+    padding: 0px 25px;
+    position: absolute;
+    font-family: sans-serif;
+    border: 1px solid #ccc;
+    transform: translateX(-50%) translateY(-50%);
+}
